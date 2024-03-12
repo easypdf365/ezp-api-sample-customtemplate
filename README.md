@@ -1,0 +1,1 @@
+# ezp-api-sample-customtemplate
